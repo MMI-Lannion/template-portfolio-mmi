@@ -31,10 +31,10 @@ Installation
 3. Ouvrir le repository dans Visual Studio Code
 <img width="1024" alt="6" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/2c174ed9-a300-4aa9-8980-a7131db319b4">
 
-4.Ouvrir un nouveau terminal 
+4. Ouvrir un nouveau terminal 
 <img width="716" alt="8" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/782f11b2-9cd7-4029-bd78-f6dce3984159">
 
-5.Installer le projet avec la commande `npm install`
+5. Installer le projet avec la commande `npm install`
 
 <img width="695" alt="9" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/10218b24-2fd4-46ca-b1d3-4673d87ebebf">
 
@@ -50,8 +50,10 @@ Utilisation
 
 ### Fichiers à modifier 
 
-Le contenu du site se modifie depuis le fichier `settings.json` dans le dossier `src/data`
-Toutes les images et icônes sont à placer dans le dossier `assets/media`
+Le contenu du site se modifie depuis le fichier `settings.json` dans le dossier `src/data`.
+
+Toutes les images et icônes sont à placer dans le dossier `assets/media`.
+
 Le CV téléchargeable est à placer dans le dossier `assets/download`
 
 ### Comment modifier le contenu ?
@@ -62,7 +64,7 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
 
 3. Il est possible d'ajouter autant de formations, de centres d'intérêts, de projets, de compétences et de contacts que l'on souhaite. Il suffit à chaque foit de copier-coller la structure. **Attention** également à bien respecter le format en exemple.
    
-4. Pour modifier la liste de compétences mises en oeuvre dans un projet et profiter du code couleur, les compétences doivent être choisies parmi :
+4. Pour modifier la liste de compétences mises en oeuvre dans un projet et profiter du code couleur dans les badges, les compétences doivent être choisies parmi :
    - "Anglais"
    - "Marketing"
    - "Comm"
@@ -82,4 +84,4 @@ Déploiement
 1. Vérifier que la version de développement (en local sur la machine) fonctionne bien, puis lancer la commande suivante dans un terminal :
    `npm run deploy`
    
-3. Bravo ! Votre portfolio est déployé à l'adresse _username_.github.io/portfolio (où _username_ est votre identifiant GitHub)
+2. Bravo ! Votre portfolio est déployé à l'adresse _username_.github.io/portfolio (où _username_ est votre identifiant GitHub)
