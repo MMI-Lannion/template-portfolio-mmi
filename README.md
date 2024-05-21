@@ -88,14 +88,15 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
   
 5. Tous les noms de fichiers écrits dans le fichier `settings.json` doivent correspondre au nom des fichiers placés dans le répertoirte `assets`
 
-### Commit et Push
+### Enregistrement des modifications
 
-1. Les modifications apportées au template doivent être régulièrement "enregistrées" (= _commitées_) en local puis _pushées_ sur le serveur depuis GitHub Desktop
+Les modifications apportées au template doivent être régulièrement "enregistrées" (= _commitées_) en local puis _poussées_ sur le serveur depuis GitHub Desktop
 
+1. A chaque modification des sources, GitHub Desktop propose de _commiter_ les modifications. Entrer un commentaire (significatif !) puis cliquer sur `Commit to main`
 <img width="926" alt="11" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/4852dbbf-b71c-468a-a3af-8508926470a2">
 
+2. Après une série de modifications importantes, cliquer sur `Push origin` pour pousser sur le serveur distant les modifications.
 <img width="1118" alt="12" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/c66426a4-b423-49c8-b93d-39576d619739">
-
 
    
 Déploiement
@@ -106,5 +107,5 @@ Déploiement
    
 2. Bravo ! Votre portfolio est déployé à l'adresse _username_.github.io/portfolio (où _username_ est votre identifiant GitHub)
 
-3. À chaque modification du template, après avoir _pushé_ toutes les modificationns, il faudra relancer la commande de déploiement pour voir appraître les modifications (léger délai possible)
+3. À chaque modification du template, après avoir _pushé_ toutes les modifications, il faudra relancer la commande de déploiement pour voir appraître les modifications (léger délai possible)
 
