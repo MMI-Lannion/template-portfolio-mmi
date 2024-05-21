@@ -6,6 +6,11 @@ Il a été réalisé dans le cadre de la démarche portfolio des BUT MMI à l'IU
 
 Il utilise [Vite](https://vitejs.dev/), [React](https://fr.react.dev/) et [Tailwind.css](https://tailwindcss.com/)
 
+Démo
+---
+
+[Voir la démo](https://mmi-lannion.github.io/template-portfolio-mmi/)
+
 Prérequis
 ---
 
@@ -16,7 +21,7 @@ Dans le tutoriel d'installation, [GitHub Desktop](https://desktop.github.com/) e
 Installation
 ---
 
-1. Faire un fork du projet de template
+1. Faire un fork du projet de template (depuis [cette page](https://github.com/MMI-Lannion/template-portfolio-mmi))
 
 <img width="1138" alt="1" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/e206e319-79f0-40a0-8da3-2494a11e2bb6">
 
