@@ -14,7 +14,7 @@ Démo
 Prérequis
 ---
 
-L'usage de ce template nécessite l'installation de [Node.js](https://nodejs.org/en), et un compte [GitHub](https://github.com/).
+L'usage de ce template nécessite l'installation de [Node.js](https://nodejs.org/en), et un [compte GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
 
 Dans le tutoriel d'installation, [GitHub Desktop](https://desktop.github.com/) et [Visual Studio Code](https://code.visualstudio.com/) sont également utilisés. Il est fortement recommandé de suivre ce tutoriel (et d'utiliser les mêmes outils), à moins de savoir ce que l'on fait ;)
 
@@ -66,7 +66,7 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
 
 ### Comment modifier le contenu ?
 
-1. Nommer correctement vos fichiers images (vignettes de vos projets et votre photo de portrait) et copiez-les dans le répertoire `assets/media`
+1. Nommer correctement vos fichiers images (vignettes de vos projets et votre photo de portrait) et copiez-les dans le répertoire `assets/media`.
    
 2. Modifiez le contenu du fichier `settings.json` avec vos informations. **Attention** à bien conserver le format et ne modifier que ce qui est en orangé et entre guillemets !
 
@@ -85,11 +85,27 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
    - "Dev Web"
    - "Entrepreneuriat"
    - "Gestion de projet"
+  
+5. Tous les noms de fichiers écrits dans le fichier `settings.json` doivent correspondre au nom des fichiers placés dans le répertoirte `assets`
 
+### Enregistrement des modifications
+
+Les modifications apportées au template doivent être régulièrement "enregistrées" (= _commitées_) en local puis _poussées_ sur le serveur depuis GitHub Desktop
+
+1. A chaque modification des sources, GitHub Desktop propose de _commiter_ les modifications. Entrer un commentaire (significatif !) puis cliquer sur `Commit to main`
+<img width="926" alt="11" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/4852dbbf-b71c-468a-a3af-8508926470a2">
+
+2. Après une série de modifications importantes, cliquer sur `Push origin` pour pousser sur le serveur distant les modifications.
+<img width="1118" alt="12" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/c66426a4-b423-49c8-b93d-39576d619739">
+
+   
 Déploiement
 ---
 
 1. Vérifier que la version de développement (en local sur la machine) fonctionne bien, puis lancer la commande suivante dans un terminal :
    `npm run deploy`
    
-2. Bravo ! Votre portfolio est déployé à l'adresse _username_.github.io/portfolio (où _username_ est votre identifiant GitHub)
+2. Bravo ! Votre portfolio est déployé à l'adresse `_username_.github.io/portfolio` (où _username_ est votre identifiant GitHub)
+
+3. À chaque modification du template, après avoir _pushé_ toutes les modifications, il faudra relancer la commande de déploiement pour voir appraître les modifications (léger délai possible)
+
