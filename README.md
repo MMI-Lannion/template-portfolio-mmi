@@ -25,7 +25,9 @@ Installation
 
 <img width="921" alt="3" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/1dd75f45-9801-4da2-9c14-034d020c297e">
 
-<img width="1014" alt="4" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/0190c6fa-2ff8-48dd-9345-1f7545417fc4">
+<img width="1014" alt="4" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/b971ce2a-98b7-4d27-8a8e-0b621560bd27">
+
+
 <img width="1023" alt="5" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/7310e0b0-0e54-4804-8da0-b0176055ad65">
 
 3. Ouvrir le repository dans Visual Studio Code
