@@ -86,6 +86,12 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
    - "Entrepreneuriat"
    - "Gestion de projet"
 
+### Commit et Push
+
+1. Les modifications apportées au template doivent être régulièrement "enregistrées" (= _commitées_) en local puis _pushées_ sur le serveur depuis GitHub Desktop
+
+
+   
 Déploiement
 ---
 
@@ -93,3 +99,6 @@ Déploiement
    `npm run deploy`
    
 2. Bravo ! Votre portfolio est déployé à l'adresse _username_.github.io/portfolio (où _username_ est votre identifiant GitHub)
+
+3. À chaque modification du template, après avoir _pushé_ toutes les modificationns, il faudra relancer la commande de déploiement pour voir appraître les modifications (léger délai possible)
+
