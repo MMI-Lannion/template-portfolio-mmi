@@ -30,7 +30,19 @@ Installation
 3. Ouvrir le repository dans Visual Studio Code
 <img width="1024" alt="6" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/2c174ed9-a300-4aa9-8980-a7131db319b4">
 
-4. Modifier le fichier `settings.json`
+4.Ouvrir un nouveau terminal 
+<img width="716" alt="8" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/782f11b2-9cd7-4029-bd78-f6dce3984159">
+
+5.Installer le projet avec la commande `npm run install`
+
+<img width="695" alt="9" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/10218b24-2fd4-46ca-b1d3-4673d87ebebf">
+
+6. Depuis le terminal la commande `npm run dev` lance un serveur local permettant de voir en direct les modifications apportées au template. Suivre le lien proposé pour ouvrir le site en local dans un navigateur.
+<img width="638" alt="10" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/6ae0bc5b-6173-4508-a79a-7a1cd31835e7">
+
+6. Dans la suite modifier le fichier `settings.json` pour y insérer vos informations. Les images seront ajoutées dans le répertoire `assets`
+   
+<img width="1180" alt="7" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/3e4f7880-6c1a-493c-9ecf-90101457025f">
 
 Utilisation
 ---
