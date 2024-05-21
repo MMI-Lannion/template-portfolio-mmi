@@ -3,6 +3,7 @@ import { Link } from "react-router-dom"
 import Badge from './Badge.jsx'
 
 export default function Project({ title, picture, context, outputs, missions, skills, link }) {
+
     return (
         <div className="card bg-base-100 shadow-lg border border-slate-200 h-full">
             <figure className="!my-0"><img src={picture} alt="" /></figure>
@@ -11,8 +12,8 @@ export default function Project({ title, picture, context, outputs, missions, sk
                     {
                         skills.map(skill =>
                             <Badge label={skill}
-                                bgColor={utils.tagColors[skill][0]}
-                                fgColor={utils.tagColors[skill][1]}
+                                bgColor={utils.tagColors.hasOwnProperty(skill) ? utils.tagColors[skill][0] : "bg-slate-300"}
+                                fgColor={utils.tagColors.hasOwnProperty(skill) ? utils.tagColors[skill][1] : "text-slate-950"}
                                 filled={false}
                             />
                         )
