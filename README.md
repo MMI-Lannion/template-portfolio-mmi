@@ -66,7 +66,7 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
 
 ### Comment modifier le contenu ?
 
-1. Nommer correctement vos fichiers images (vignettes de vos projets et votre photo de portrait) et copiez-les dans le répertoire `assets/media`
+1. Nommer correctement vos fichiers images (vignettes de vos projets et votre photo de portrait) et copiez-les dans le répertoire `assets/media`.
    
 2. Modifiez le contenu du fichier `settings.json` avec vos informations. **Attention** à bien conserver le format et ne modifier que ce qui est en orangé et entre guillemets !
 
@@ -85,10 +85,16 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
    - "Dev Web"
    - "Entrepreneuriat"
    - "Gestion de projet"
+  
+5. Tous les noms de fichiers écrits dans le fichier `settings.json` doivent correspondre au nom des fichiers placés dans le répertoirte `assets`
 
 ### Commit et Push
 
 1. Les modifications apportées au template doivent être régulièrement "enregistrées" (= _commitées_) en local puis _pushées_ sur le serveur depuis GitHub Desktop
+
+<img width="926" alt="11" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/4852dbbf-b71c-468a-a3af-8508926470a2">
+
+<img width="1118" alt="12" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/c66426a4-b423-49c8-b93d-39576d619739">
 
 
    
