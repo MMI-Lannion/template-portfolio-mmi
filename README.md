@@ -14,7 +14,7 @@ Démo
 Prérequis
 ---
 
-L'usage de ce template nécessite l'installation de [Node.js](https://nodejs.org/en), et un compte [GitHub]([https://github.com/](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)).
+L'usage de ce template nécessite l'installation de [Node.js](https://nodejs.org/en), et un [compte GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
 
 Dans le tutoriel d'installation, [GitHub Desktop](https://desktop.github.com/) et [Visual Studio Code](https://code.visualstudio.com/) sont également utilisés. Il est fortement recommandé de suivre ce tutoriel (et d'utiliser les mêmes outils), à moins de savoir ce que l'on fait ;)
 
