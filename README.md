@@ -9,7 +9,7 @@ Il utilise [Vite](https://vitejs.dev/), [React](https://fr.react.dev/) et [Tailw
 Démo
 ---
 
-[Voir la démo](https://mmi-lannion.github.io/template-portfolio-mmi/){:target="_blank"}
+[Voir la démo](https://mmi-lannion.github.io/template-portfolio-mmi/)
 
 Prérequis
 ---
