@@ -68,7 +68,7 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
 
 1. Nommer correctement vos fichiers images (vignettes de vos projets et votre photo de portrait) et copiez-les dans le répertoire `assets/media`.
    
-2. Modifiez le contenu du fichier `settings.json` avec vos informations. **Attention** à bien conserver le format et ne modifier que ce qui est en orangé et entre guillemets !
+2. Modifiez le contenu du fichier `settings.json` avec vos informations. **Attention** à bien conserver le format et ne modifier que les valeurs à droite des clés (bien garder le nom des clés en bleu)
 
 3. Il est possible d'ajouter autant de formations, de centres d'intérêts, de projets, de compétences et de contacts que l'on souhaite. Il suffit à chaque foit de copier-coller la structure. **Attention** également à bien respecter le format en exemple.
    
