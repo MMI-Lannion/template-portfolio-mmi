@@ -106,7 +106,7 @@ Déploiement
 1. Vérifier que la version de développement (en local sur la machine) fonctionne bien, puis lancer la commande suivante dans un terminal :
    `npm run deploy`
    
-2. Bravo ! Votre portfolio est déployé à l'adresse `_username_.github.io/portfolio` (où _username_ est votre identifiant GitHub)
+2. Bravo ! Votre portfolio est déployé à l'adresse `username.github.io/portfolio` (où _username_ est votre identifiant GitHub)
 
 3. À chaque modification du template, après avoir _pushé_ toutes les modifications, il faudra relancer la commande de déploiement pour voir appraître les modifications (léger délai possible)
 
