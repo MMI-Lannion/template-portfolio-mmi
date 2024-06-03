@@ -14,9 +14,19 @@ Démo
 Prérequis
 ---
 
-L'usage de ce template nécessite l'installation de [Node.js](https://nodejs.org/en), et un [compte GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
+L'usage de ce template nécessite Node.js, et un compte GitHub.
+Dans le tutoriel d'installation, GitHub Desktop et Visual Studio Code sont également utilisés. Il est fortement recommandé de suivre ce tutoriel (et d'utiliser les mêmes outils), à moins de savoir ce que l'on fait ;)
 
-Dans le tutoriel d'installation, [GitHub Desktop](https://desktop.github.com/) et [Visual Studio Code](https://code.visualstudio.com/) sont également utilisés. Il est fortement recommandé de suivre ce tutoriel (et d'utiliser les mêmes outils), à moins de savoir ce que l'on fait ;)
+1. Installer Node.js en suivant [ce lien](https://nodejs.org/en)
+2. Se créer un compte Github en suivant [ce lien](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+3. Installer également Github Desktop en suivant [ce lien](https://desktop.github.com/) et Visual Studio Code en suivant [ce lien](https://code.visualstudio.com/)
+
+
+Vocabulaire
+----
+
+1. un *repository* (ou dépôt) est l’élément le plus simple de GitHub. Il s’agit d’un endroit où vous pouvez stocker votre code, vos fichiers et l’historique de révision de chaque fichier. Les référentiels peuvent avoir plusieurs collaborateurs, et peuvent être publics ou privés.
+2. Un *fork* permet d’apporter des modifications à un projet sans affecter le dépôt d’origine. Il s'agit d'un nouveau dépôt, personnel, mais encore lié au dépôt d'origine. Après avoir *forké* un dépôt, vous pouvez récupérer les mises à jour du dépôt d'origine pour garder votre *fork* à jour.
 
 Installation
 ---
