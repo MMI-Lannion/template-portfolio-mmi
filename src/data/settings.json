@@ -12,6 +12,11 @@
             "school" : "IUT de Lannion, Université de Rennes",
             "start" : 2023,
             "end" : 2026
+        },
+        {
+            "name" : "Bac S, option Maths et Arts Plastiques",
+            "school" : "Lycée Félix Le Dantec( 22)",
+            "start" : 2023
         }
     ],
     "interests": [
