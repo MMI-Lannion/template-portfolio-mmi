@@ -59,7 +59,7 @@ Installation
 6. Depuis le terminal la commande `npm run dev` lance un serveur local permettant de voir en direct les modifications apportées au template. Suivre le lien proposé pour ouvrir le site en local dans un navigateur.
 <img width="638" alt="10" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/6ae0bc5b-6173-4508-a79a-7a1cd31835e7">
 
-7. Dans la suite, modifier le fichier `settings.json` pour y insérer vos informations. Les assets seront ajoutées dans le répertoire `assets`
+7. Dans la suite, modifier le fichier `settings.json` pour y insérer vos informations. Les assets (image de portrait, illustrations des projets, icônes, CV téléchargeable) seront ajoutées dans le répertoire `assets`
    
 <img width="1180" alt="7" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/3e4f7880-6c1a-493c-9ecf-90101457025f">
 
@@ -78,9 +78,9 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
 
 1. Nommer correctement vos fichiers images (vignettes de vos projets et votre photo de portrait) et copiez-les dans le répertoire `assets/media`.
    
-2. Modifier le contenu du fichier `settings.json` avec vos informations. **Attention** à bien conserver le format et ne modifier que les valeurs à droite des clés (bien garder le nom des clés en bleu)
+2. Modifier le contenu du fichier `settings.json` avec vos informations et les chemins vers vos *assets*. **Attention** à bien conserver le format et ne modifier que les valeurs à droite des clés (bien garder le nom des clés en bleu)
 
-3. Il est possible d'ajouter autant de formations, de centres d'intérêts, de projets, de compétences et de contacts que l'on souhaite. Il suffit à chaque foit de copier-coller la structure. **Attention** également à bien respecter le format en exemple.
+3. Il est possible d'ajouter autant de formations, de centres d'intérêts, de projets, de compétences et de contacts que l'on souhaite. Il suffit à chaque fois de copier-coller la structure. **Attention** également à bien respecter le format en exemple.
    
 4. Pour modifier la liste de compétences mises en oeuvre dans un projet et profiter du code couleur dans les badges, les compétences doivent être choisies parmi :
    - "Anglais"
@@ -101,7 +101,7 @@ Le CV téléchargeable est à placer dans le dossier `assets/download`
 
 ### Enregistrement des modifications
 
-Les modifications apportées au template doivent être régulièrement "enregistrées" (= _commitées_) en local puis _poussées_ sur le serveur depuis GitHub Desktop
+Les modifications apportées au template doivent être régulièrement "enregistrées" (= _commitées_) en local puis _poussées_ (*push*) sur le serveur depuis GitHub Desktop
 
 1. A chaque modification des sources, GitHub Desktop propose de _commiter_ les modifications. Entrer un commentaire (significatif !) puis cliquer sur `Commit to main`
 <img width="926" alt="11" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/4852dbbf-b71c-468a-a3af-8508926470a2">
@@ -110,13 +110,13 @@ Les modifications apportées au template doivent être régulièrement "enregist
 <img width="1118" alt="12" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/c66426a4-b423-49c8-b93d-39576d619739">
 
    
-Déploiement
+Déploiement vers une page github.io
 ---
 
-1. Vérifier que la version de développement (en local sur la machine) fonctionne bien, puis lancer la commande suivante dans un terminal :
+1. Une fois toutes vos informations remplies, lancer la commande suivante dans un terminal :
    `npm run deploy`
    
 2. Bravo ! Votre portfolio est déployé à l'adresse `username.github.io/portfolio` (où _username_ est votre identifiant GitHub)
 
-3. À chaque modification du template, après avoir _pushé_ toutes les modifications, il faudra relancer la commande de déploiement pour voir appraître les modifications (léger délai possible)
+3. À chaque modification du template, après avoir _pushé_ toutes les modifications depuis GitHub Desktop, il faudra relancer la commande de déploiement pour voir appraître les modifications (léger délai possible)
 
