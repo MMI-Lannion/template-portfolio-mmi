@@ -33,21 +33,21 @@ Installation
 
 1. Faire un fork du projet de template (depuis [cette page](https://github.com/MMI-Lannion/template-portfolio-mmi))
 
-<img width="1138" alt="1" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/e206e319-79f0-40a0-8da3-2494a11e2bb6">
+<img width="600" alt="1" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/e206e319-79f0-40a0-8da3-2494a11e2bb6">
 
-<img width="790" alt="2" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/3565966e-7e08-471d-898e-e47116ac457f">
+<img width="600" alt="2" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/3565966e-7e08-471d-898e-e47116ac457f">
 
 2. Puis cloner le repository depuis GitHub Desktop
 
-<img width="921" alt="3" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/1dd75f45-9801-4da2-9c14-034d020c297e">
+<img width="600" alt="3" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/1dd75f45-9801-4da2-9c14-034d020c297e">
 
-<img width="1014" alt="4" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/b971ce2a-98b7-4d27-8a8e-0b621560bd27">
+<img width="600" alt="4" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/b971ce2a-98b7-4d27-8a8e-0b621560bd27">
 
 
-<img width="1023" alt="5" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/7310e0b0-0e54-4804-8da0-b0176055ad65">
+<img width="600" alt="5" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/7310e0b0-0e54-4804-8da0-b0176055ad65">
 
 3. Ouvrir le repository dans Visual Studio Code
-<img width="1024" alt="6" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/2c174ed9-a300-4aa9-8980-a7131db319b4">
+<img width="600" alt="6" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/2c174ed9-a300-4aa9-8980-a7131db319b4">
 
 4. Ouvrir un nouveau terminal 
 <img width="716" alt="8" src="https://github.com/MMI-Lannion/template-portfolio-mmi/assets/80826481/782f11b2-9cd7-4029-bd78-f6dce3984159">
