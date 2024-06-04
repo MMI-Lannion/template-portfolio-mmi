@@ -7,3 +7,6 @@ TODO
 4. differentiate academic / non academic training
 5. Refactor skills
 6. Hability to insert more icons
+7. Dark mode
+8. Multilingual
+9. Theme customization
