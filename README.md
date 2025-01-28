@@ -17,7 +17,8 @@ Prérequis
 L'usage de ce template nécessite Node.js, et un compte GitHub.
 Dans le tutoriel d'installation, GitHub Desktop et Visual Studio Code sont également utilisés. Il est fortement recommandé de suivre ce tutoriel (et d'utiliser les mêmes outils), à moins de savoir ce que l'on fait ;)
 
-1. Installer Node.js en suivant [ce lien](https://nodejs.org/en)
+1. Installer Node.js en suivant [ce lien](https://nodejs.org/en) (Attention : pour Windows, installer la version 21.7.3, [ici](https://nodejs.org/en/download)) 
+2. Installer Git en suivant [ce lien](https://git-scm.com/)
 2. Se créer un compte GitHub en suivant [ce lien](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 3. Installer également GitHub Desktop en suivant [ce lien](https://desktop.github.com/) et Visual Studio Code en suivant [ce lien](https://code.visualstudio.com/)
 
